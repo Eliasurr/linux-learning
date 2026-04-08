@@ -6,7 +6,7 @@
 ## 🛠️ Flags Imprescindibles
 - `-i`: Ignora mayúsculas/minúsculas.
 - `-v`: Invierte la búsqueda (muestra lo que NO coincide).
-- `-r`: Búsqueda recursiva en carpetas.
+- `-r`: Búsqueda re cursiva en carpetas.
 
 ## 🚀 Ejemplos Reales (Probados en Fedora)
 ```bash
