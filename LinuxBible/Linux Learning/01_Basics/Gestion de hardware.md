@@ -13,7 +13,7 @@ Los sistemas Linux identifican los dispositivos de hardware como archivos especi
 
 **Character:** archivos para dispositivos que solo pueden manejar un carácter a la vez. La mayoría de los modems y terminales son creados como `character files`
 
-**Block:**  archivos para dispositivos que pueden manejar una gran cantidad de informacion como pueden ser los discos rigidos. 
+**Block:**  archivos para dispositivos que pueden manejar una gran cantidad de información como pueden ser los discos rígidos. 
 
 **Network:** archivos para dispositivos que paquetes para enviar y recibir información. Esto incluye a tarjetas de red y dispositivos loopback.
 
