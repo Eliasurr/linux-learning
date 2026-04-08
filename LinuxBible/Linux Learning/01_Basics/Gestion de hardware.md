@@ -3,5 +3,11 @@ Otra de las funciones del Kernel es la de gestión de hardware. Cualquier dispos
 - Controladores compilados en el Kernel
 - Módulos de controladores agregados al Kernel
 
+Los módulos de Kernel se desarrollaron para poder insertar código de controladores aun con el Kernel corriendo, sin tener que compilar todo nuevamente.
 
-  
+Los sistemas Linux identifican los dispositivos de hardware como archivos especiales llamados `device files` hay 3 tipos de ellos
+
+- Character
+- Block
+- Network
+
