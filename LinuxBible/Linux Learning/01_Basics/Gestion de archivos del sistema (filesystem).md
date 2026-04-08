@@ -23,3 +23,8 @@ existen dos tipos principales que verás:
 - **Character Devices (c):** Envían datos carácter por carácter (como tu teclado o el mouse).
     
 - **Block Devices (b):** Envían datos en bloques grandes (como tu disco duro o un pendrive).
+
+
+![[Pasted image 20260408162439.png]]
+
+Cualquier unidad de almacenamiento que quiera instalarse linux debera estar formateada usando uno los `filesystem` que se ven la imagen.
