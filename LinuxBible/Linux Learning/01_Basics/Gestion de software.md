@@ -18,7 +18,6 @@ Piensa en los niveles de ejecución como "perfiles de energía" de un celular, p
     
 - **Nivel 5:** Igual al 3, pero arranca la interfaz gráfica (GNOME en tu caso).
     
-
 ### 3. La evolución: SysVinit vs. systemd
 
 El libro menciona `/etc/inittab` y `/etc/init.d`. En **Fedora**, esto ha sido reemplazado por `systemd`.
