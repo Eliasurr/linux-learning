@@ -2,4 +2,6 @@ Otra de las funciones del Kernel es la de gestión de hardware. Cualquier dispos
 
 - Controladores compilados en el Kernel
 - Módulos de controladores agregados al Kernel
+
+
   
