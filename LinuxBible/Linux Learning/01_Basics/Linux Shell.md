@@ -4,3 +4,6 @@ La shell de GNU/Linux es una utilidad interactiva especial. Proporciona una form
 	- **Internos (Built-ins):** Son parte de la propia shell (como `cd` o `exit`). Son extremadamente rápidos porque no tiene que buscar un programa en el disco.
     
 	- **Externos:** Son programas independientes instalados en tu Fedora (como `ls`, `grep` o `dnf`). La shell busca el archivo ejecutable en carpetas específicas (definidas en una variable llamada `$PATH`) y le pide al Kernel que lo abra.
+
+
+La Shell es el traductor entre el usuario y el Kernel. El prompt es donde escribo, y Bash es el 'idioma' estándar que hablo en Fedora.
