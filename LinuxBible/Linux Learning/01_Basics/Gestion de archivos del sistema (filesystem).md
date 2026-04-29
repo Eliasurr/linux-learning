@@ -27,4 +27,4 @@ existen dos tipos principales que verás:
 
 ![[Pasted image 20260408162439.png]]
 
-Cualquier unidad de almacenamiento que quiera instalarse linux debera estar formateada usando uno los `filesystem` que se ven la imagen.
+Cualquier unidad de almacenamiento que quiera instalarse linux deberá estar formateada usando uno los `filesystem` que se ven la imagen.
