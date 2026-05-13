@@ -11,3 +11,5 @@ Cuando el sistema Linux arranca, crea automáticamente varias **consolas virtual
 
 > **Dato curioso:** Se llaman "Virtuales" porque antes eran físicas. Hoy, tu teclado y monitor se "reparten" entre estas consolas según la combinación de teclas que presiones.
 
+### Personalizando el CLI
+
