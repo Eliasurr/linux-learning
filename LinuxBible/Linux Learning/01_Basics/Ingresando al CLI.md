@@ -13,3 +13,5 @@ Cuando el sistema Linux arranca, crea automáticamente varias **consolas virtual
 
 ### Personalizando el CLI
 
+
+
