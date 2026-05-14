@@ -5,3 +5,4 @@ Ver estructura de los discos
 - `-l`: Muestra los discos en formato lista.
 - `-o`: Output personalizado. `lsblk -o NAME,SIZE,TYPE,MOUNTPOINT`
 - `-d`: Oculta particiones, solo muestra los discos.
+
